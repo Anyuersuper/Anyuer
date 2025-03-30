@@ -12,7 +12,8 @@
 - **前端开发**: HTML | CSS 
 - **后端开发**: Java | C/C++ | Django | Flask
 - **数据库**: MySQL | PostgreSQL | MongoDB
-- **DevOps**: Docker | Kubernetes | CI/CD
+- **DevOps**: Docker | Kubernetes
+- **框架技术**: Spring | SpringMVC | SpringBoot
 
 ## 📫 联系方式
 - **GitHub**: [GitHub主页](https://github.com/Anyuersuper/Anyuer)
