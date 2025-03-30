@@ -9,8 +9,8 @@
 
 ## 🔧 技能栈
 - **编程语言**: Python | JavaScript | Java | C++ |
-- **前端开发**: HTML | CSS | React | Vue.js
-- **后端开发**: Node.js | Express | Django | Flask
+- **前端开发**: HTML | CSS 
+- **后端开发**: Java | C/C++ | Django | Flask
 - **数据库**: MySQL | PostgreSQL | MongoDB
 - **DevOps**: Docker | Kubernetes | CI/CD
 
