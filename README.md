@@ -11,24 +11,23 @@
 ## 🔧 技能栈  
 ### 🖥️ **前端开发**  
 - **编程语言**: JavaScript | TypeScript | HTML | CSS  
-- **框架/库**: React | Vue | Next.js | Nuxt.js  
-- **构建工具**: Webpack | Vite | Babel  
+- **框架/库**: React | Vue | Uniapp
 
 ### 🖥️ **后端开发**  
-- **编程语言**: Python | Java | C++ | Go  
-- **框架**: Spring | Spring Boot | Django | Flask | Express  
-- **数据库**: MySQL | PostgreSQL | MongoDB | Redis  
-- **消息队列**: RabbitMQ | Kafka | Redis Pub/Sub  
+- **编程语言**: Python | Java | C++  
+- **框架**: Spring | Spring Boot |  SpringMVC
+- **数据库**: MySQL | Redis  
+- **消息队列**: RabbitMQ | Redis Pub/Sub  
 
 ### 🛠️ **DevOps & 云原生**  
-- **容器化 & 微服务**: Docker | Kubernetes | Helm  
+- **容器化 & 微服务**: Docker | Kubernetes | Nacos  
 - **自动化 & CI/CD**: GitHub Actions | Jenkins | GitLab CI  
 - **云平台**: AWS | GCP | 阿里云  
 
 ### ⚙️ **其他技术**  
 - **版本控制**: Git | GitHub | GitLab  
 - **API 设计**: RESTful | GraphQL | gRPC  
-- **架构设计**: 微服务 | 分布式系统 | 服务器less  
+- **架构设计**: 微服务 | 分布式系统 | Linux服务器  
 
 ## 📫 联系方式  
 - **GitHub**: [GitHub主页](https://github.com/Anyuersuper/Anyuer)  
