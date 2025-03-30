@@ -4,19 +4,19 @@
 
 ## 🚀 关于我
 - 🔹 擅长编写高质量代码，热衷于技术探索
-- 🔹 熟悉多种编程语言，如 Python、JavaScript 等
+- 🔹 熟悉多种编程语言
 - 🔹 关注开源项目，并积极参与技术社区
 
 ## 🔧 技能栈
-- **编程语言**: Python | JavaScript | Java | C++
+- **编程语言**: Python | JavaScript | Java | C++ |
 - **前端开发**: HTML | CSS | React | Vue.js
 - **后端开发**: Node.js | Express | Django | Flask
 - **数据库**: MySQL | PostgreSQL | MongoDB
 - **DevOps**: Docker | Kubernetes | CI/CD
 
 ## 📫 联系方式
-- **GitHub**: [你的 GitHub 主页](https://github.com/your-github-username)
-- **博客**: [你的个人博客](https://your-blog.com)
-- **邮箱**: your.email@example.com
+- **GitHub**: [你的 GitHub 主页](https://github.com/Anyuersuper/Anyuer)
+- **博客**: [你的个人博客](www.anyuer.club)
+- **邮箱**: lvzaosong@gmail.com
 
 感谢访问我的 GitHub 主页！⭐️ 欢迎 Star 和 Fork 我的项目！
