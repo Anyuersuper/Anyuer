@@ -32,6 +32,5 @@
 ## 📫 联系方式  
 - **GitHub**: [GitHub主页](https://github.com/Anyuersuper/Anyuer)  
 - **博客**: [一个欲儿的博客](http://www.anyuer.club)  
-- **邮箱**: lvzaosong@gmail.com  
 
 💡 **欢迎 Star & Fork 我的项目！一起交流技术，共同成长！** 🚀
