@@ -14,7 +14,7 @@
 - **框架/库**: React | Vue | Uniapp
 
 ### 🖥️ **后端开发**  
-- **编程语言**: Python | Java | C++  
+- **编程语言**: Python | Java | C/C++  
 - **框架**: Spring | Spring Boot |  SpringMVC
 - **数据库**: MySQL | Redis | SQLite
 - **消息队列**: RabbitMQ | Redis Pub/Sub  
