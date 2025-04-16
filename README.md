@@ -10,14 +10,14 @@
 
 ## 🔧 技能栈  
 ### 🖥️ **前端开发**  
-- **编程语言**: JavaScript | TypeScript | HTML | CSS  
-- **框架/库**: React | Vue | Uniapp
+- **编程语言**: JavaScript | HTML | CSS  
+- **框架/库**: React | Vue
 
 ### 🖥️ **后端开发**  
-- **编程语言**: Python | Java | C/C++  
+- **编程语言**: Java | Python | C/C++ | Go 
 - **框架**: Spring | Spring Boot |  SpringMVC
 - **数据库**: MySQL | Redis | SQLite
-- **消息队列**: RabbitMQ | Redis Pub/Sub  
+- **消息队列**: RabbitMQ
 
 ### 🛠️ **DevOps & 云原生**  
 - **容器化 & 微服务**: Docker | Kubernetes | Nacos  
